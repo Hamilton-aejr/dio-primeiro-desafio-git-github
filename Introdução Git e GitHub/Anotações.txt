@@ -1,0 +1,23 @@
+Definições:
+
+GIT: É um Sistema de Controle de Versões Distribuído.
+GIT BASH: O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git.
+GITHUB: GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+
+
+Comandos úteis Git:
+
+git config --global user.name ""
+git config --global user.email @gmail.com
+git config --list
+git init (Cria novo repositório)
+git status (Verifica estado dos arquivos/diretórios)
+git add . (adiciona todos os arquivos/diretórios)
+git commit meuarquivo.txt -m "minha mensagem de commit" (comita informando msg)
+git rm meu_arquivo.txt (remove arquivo)
+git rm -r diretorio (remove diretório)
+git remote add origin git@github.com:url (vincular repositório local com remoto)
+git push -u origin master (primeiro push para enviar para o repositório)
+git pull (atualizar arquivos)
+git fetch (buscar alterações mas não aplicar)
+git clone git@github.com: (clonar um respositório remoto)
