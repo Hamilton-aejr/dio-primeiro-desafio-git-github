@@ -24,3 +24,39 @@ Estrutura básica:
 
 </body>
 </html>
+
+
+TAGs úteis:
+
+•	<h1> </h1> : Cabeçalho 1 (vai até 6)
+•	<br /> : quebra de linha
+•	<p> </p> : parágrafo
+•	<hr /> : cria uma linha horizontal
+•	<strong> </strong> : negrito
+•	<em> </em> : itálico
+•	<u> </u> : sublinhado
+•	<strike> </strike> : riscado
+•	<ul> </ul> : lista não ordenada
+•	<ol> </ol> : lista ordenada
+•	<li> </li> : item da lista
+•	<img src=”“ widht=”” height=”” /> : inserir imagens
+•	<a href=””> </a> : link
+•	<table border=”número” width=”número”> </table> : cria uma tabela
+•	<tr> </tr> : cria linha da tabela
+•	<th> </th> : título da tabela
+•	<td > </td> : cria uma célula na tabela
+•	colspan=”número de cll q vai agrupar”
+•	rowspan=”número de linhas que vai agrupar”
+•	<form> </form> : cria um formulário
+•	<input tipe”tipo de texto que quer” value=(se quiser) /> : inserir dados no formulário
+•	Tipos de input:
+	o	Text;
+	o	Password;
+	o	Button;
+	o	Submit;
+	o	Radio (incluir “name” igual se quiser um deles apenas);
+	o	Checkbox;
+•	<select> </select> : cria uma lista de validação de dados;
+•	<option> </option> : cria as opções na da lista de validação;
+•	<textarea> </textarea> : cria área de observação (campo de texto grande)
+•	Entidades htlm mostram caracteres especiais na página;
