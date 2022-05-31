@@ -60,3 +60,38 @@ TAGs úteis:
 •	<option> </option> : cria as opções na da lista de validação;
 •	<textarea> </textarea> : cria área de observação (campo de texto grande)
 •	Entidades htlm mostram caracteres especiais na página;
+
+
+CSS
+
+Definição:
+
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
+
+A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
+
+
+ID: é representado pelo símbolo # (hash) seguido de um nome para esse ID.
+
+Classe: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
+
+E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.
+
+Comandos úteis:
+
+background: grey;
+font-family: Verdana;
+max-width: 900px;
+margin: auto;
+border-radius: 50%;
+color: blue;
+padding: 15px;
+font-size: 40px;
+text-transform: uppercase;
+text-decoration: line-through;
+color: #505050;
+font-size: 16px;
+font-style: italic;
+margin-bottom: 15px;
+text-align: justify;
+width: 100%
